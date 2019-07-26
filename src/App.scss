@@ -39,16 +39,18 @@ body {
     font-size: 1.5em;
     textarea {
       font-size: 0.8em;
-      height: 30vw;
+      height: 400px;
       resize: none;
-      width: 90%;
+      width: 600px;
       }
     #excess {
       color: red;
+      font-size: 1.5em;
       }
     }
   }
 
+/*
 input::-webkit-outer-spin-button,
 input::-webkit-inner-spin-button {
   -webkit-appearance: none;
@@ -57,3 +59,4 @@ input::-webkit-inner-spin-button {
 input[type=number] {
   -moz-appearance: textfield;
   }
+  */
