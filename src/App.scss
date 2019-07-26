@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Overpass');
+
+
+html, body {
+  height: 100%;
+}
+
+@mixin flexStyle{
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+}
+
+body {
+  @include flexStyle
+  background-color: orange;
+  font-family: 'Overpass', sans-serif;
+  font-size: 16px;
+  }
+
+#container {
+  font-size: 1.5em;
+  #intro {
+    input {
+      font-size: 1em;
+      text-align: center;
+      width: 25%;
+      }
+    button {
+      background-color: transparent;
+      border: 2px dashed black;
+      font-size: 1em;
+      margin-left: 20px;
+      }
+    }
+  #work {
+    @include flexStyle;
+    font-size: 1.5em;
+    textarea {
+      font-size: 0.8em;
+      height: 30vw;
+      resize: none;
+      width: 90%;
+      }
+    #excess {
+      color: red;
+      }
+    }
+  }
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+  }
+input[type=number] {
+  -moz-appearance: textfield;
+  }
