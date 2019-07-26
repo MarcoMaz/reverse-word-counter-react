@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reverse-word-counter-react/static/css/main.38993bcd.chunk.css",
+    "main.js": "/reverse-word-counter-react/static/js/main.3a3468fc.chunk.js",
+    "main.js.map": "/reverse-word-counter-react/static/js/main.3a3468fc.chunk.js.map",
+    "runtime~main.js": "/reverse-word-counter-react/static/js/runtime~main.9a7bda7f.js",
+    "runtime~main.js.map": "/reverse-word-counter-react/static/js/runtime~main.9a7bda7f.js.map",
+    "static/js/2.c2695c00.chunk.js": "/reverse-word-counter-react/static/js/2.c2695c00.chunk.js",
+    "static/js/2.c2695c00.chunk.js.map": "/reverse-word-counter-react/static/js/2.c2695c00.chunk.js.map",
+    "index.html": "/reverse-word-counter-react/index.html",
+    "precache-manifest.dc22da32fc7a2e5c5ff9e67a1ecc1656.js": "/reverse-word-counter-react/precache-manifest.dc22da32fc7a2e5c5ff9e67a1ecc1656.js",
+    "service-worker.js": "/reverse-word-counter-react/service-worker.js",
+    "static/css/main.38993bcd.chunk.css.map": "/reverse-word-counter-react/static/css/main.38993bcd.chunk.css.map"
+  }
+}
