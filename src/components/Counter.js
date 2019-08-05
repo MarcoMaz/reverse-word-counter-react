@@ -12,7 +12,7 @@ const Counter = () => {
           onChange={ (e) => setWords({
             needed: words.needed,
             written: e.target.value})}
-          maxlength={ limWords }
+          maxLength={ limWords }
           value={ words.written }
           type="text">
         </textarea>
