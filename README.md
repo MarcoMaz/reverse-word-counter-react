@@ -1,22 +1,17 @@
 <h1>Reverse Word Counter REACT</h1>
 <h2>Description</h2>
-<p>Personal project of a responsive Reverse Word Counter built using Html5, Css3, Scss, React hooks, React Context, and React Provider.
+<p>Personal project of a responsive Reverse Word Counter.
 </p>
 <h2>Technologies used</h2>
 <ul>
-  <li>Html5</li>
-  <li>Css3</li>
+  <li>React</li>
   <li>Scss</li>
-  <li>React Hooks</li>
   <li>React Context</li>
   <li>React Provider</li>
 </ul>
-<h2>Where to find the project...</h2>
+<h2>Demo</h2>
 <p>
-Click <a href="https://marcomaz.github.io/reverse-word-counter-react/" target="_blank"> here</a>
-or in the image below <br/><br/><a href="https://marcomaz.github.io/reverse-word-counter-react/" target="_blank">
-<img src="https://www.dropbox.com/s/3k4ghiv8s3fxsrx/22-reverse-word-counter-react.jpg?raw=1">
-</a>
+<a href="https://marcomaz.github.io/reverse-word-counter-react/" target="_blank">Here</a>
 </p>
 <h2>User Stories</h2>
 <ul>
